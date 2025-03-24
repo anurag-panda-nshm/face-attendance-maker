@@ -9,3 +9,6 @@ liblapack-dev
 libx11-dev
 libgtk-3-dev
 libboost-python-dev
+libopenblas-dev
+liblapack-dev
+libx11-dev
