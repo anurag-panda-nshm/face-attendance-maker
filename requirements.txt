@@ -1,6 +1,6 @@
 ﻿cvlib==0.2.7
 cmake>=3.21.0
-dlib==19.24.1
+dlib==19.24.1 @ https://github.com/z-mahmud22/Dlib_Windows_Python3.x/blob/2cc3bb593701cc7fc4007a299c3f19b34a76c002/dlib-19.24.1-cp311-cp311-win_amd64.whl
 opencv-python==4.9.0.80
 face-recognition==1.3.0
 face-recognition-models==0.3.0
@@ -10,3 +10,4 @@ pickle-mixin==1.0.2
 pickleshare==0.7.5
 Pillow==10.0.0
 streamlit==1.43.2
+
