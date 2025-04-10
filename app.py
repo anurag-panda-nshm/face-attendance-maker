@@ -1,5 +1,5 @@
 import streamlit as st
-from opencv-python import cv2
+from opencv_python import cv2
 import face_recognition
 import numpy as np
 import pandas as pd
